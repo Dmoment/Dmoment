@@ -3,7 +3,7 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://unravelbot.netlify.app/) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/rishudc119?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/rishudc119)
 
-## I'm a student and a budding developer who also teaches sometimes!!
+## I'm a budding web developer working for a small tech company in India 👩🏻‍💻 and I also love to teach sometimes!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers out there
