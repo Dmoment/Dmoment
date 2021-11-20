@@ -40,6 +40,8 @@
 
 <br />
 <br />
+[![Spotify](https://novatorem-dmoment.vercel.app/api/spotify)](https://open.spotify.com/user/31kkjkl7nwsfzbn4hqv6igkywhky)
+
 
 ---
 
