@@ -40,7 +40,10 @@
 
 <br />
 <br />
-[![Spotify](https://novatorem-dmoment.vercel.app/api/spotify)](https://open.spotify.com/user/31kkjkl7nwsfzbn4hqv6igkywhky)
+
+### Spotify playing 🎧:
+
+[<img src="https://novatorem-tau-dun.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />][spotifyusername]
 
 
 ---
@@ -57,3 +60,4 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[spotifyusername]: 31kkjkl7nwsfzbn4hqv6igkywhky
